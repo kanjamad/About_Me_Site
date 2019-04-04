@@ -1,0 +1,88 @@
+
+
+
+/*--------------------------------------------------------------------
+                            Header
+---------------------------------------------------------------------- */
+
+.grid-wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between; 
+}
+
+img {
+    max-width: 100%;
+}
+
+
+
+.col-two{
+    width: 48%;
+}
+
+.paragraph {
+    /* padding: 0 25px; */
+    padding-top: 25px;
+    margin-right: 30px;
+    
+}
+
+.fab {
+    color: palevioletred;
+    font-size: 30px;
+    margin: 8px;
+}
+
+.linkSection a {
+    color: palevioletred;
+    -webkit-text-decoration-color: palevioletred;
+            text-decoration-color: palevioletred;
+    -moz-text-decoration-color: palevioletred;
+    font-weight: 500;
+}
+
+
+
+/*--------------------------------------------------------------------
+                            Main
+---------------------------------------------------------------------- */
+.wrap{
+    background-color: palevioletred;
+    height: 300px;
+}
+
+
+.col-two-project{
+    width: 50%;
+}
+
+
+
+
+.project{
+    margin: 200px;
+    background-color:#BFBFBF;
+    /* background-color: white; */
+    padding: 10px 10px 20px 10px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius: 30px ;
+    -webkit-border-radius: 30px ;
+    -moz-border-radius: 30px ;
+    -ms-border-radius: 30px ;
+    -o-border-radius: 30px ;
+}
+
+
+
+
+
