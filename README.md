@@ -8,7 +8,7 @@
 
 ![https://wireframe.cc/fUDpMW](https://github.com/kanjamad/About_Me_Site/blob/master/assets/img/skills.png " wireframe skills")
 
-![https://wireframe.cc/oLGHDd](https://github.com/kanjamad/Formula-One-Magazine/blob/master/assets/img/projects.png " wireframe project")
+![https://wireframe.cc/ULehBA](https://github.com/kanjamad/Formula-One-Magazine/blob/master/assets/img/projects.png " wireframe project")
 
 ![https://wireframe.cc/AMptaw](https://github.com/kanjamad/Formula-One-Magazine/blob/master/assets/img/blog.png " wireframe blog")
 
