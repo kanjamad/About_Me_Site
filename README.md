@@ -4,7 +4,7 @@
 
 **Create wireframes**: For a store page and implement my design.
 
-![https://wireframe.cc/quwaGz](https://github.com/kanjamad/Formula-One-Magazine/blob/master/assets/img/header.png " wireframe header")
+![https://wireframe.cc/quwaGz](https://github.com/kanjamad/About_Me_Site/blob/master/assets/img/header.png " wireframe header")
 
 ![https://wireframe.cc/gJDSGA](https://github.com/kanjamad/Formula-One-Magazine/blob/master/assets/img/main.png " wireframe main")
 
