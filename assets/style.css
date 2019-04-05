@@ -56,7 +56,14 @@ img {
 /*--------------------------------------------------------------------
                             Main
 ---------------------------------------------------------------------- */
-.wrap{
+h2{
+    text-align: center;
+}
+
+
+
+
+.wrap1 {
     background-color: palevioletred;
     height: 300px;
 }
@@ -67,14 +74,13 @@ img {
 }
 
 
-
-
 .project{
     margin: 200px;
     background-color:#BFBFBF;
     /* background-color: white; */
     padding: 10px 10px 20px 10px;
-    box-shadow: 10px 10px 5px #aaaaaa;
+    -webkit-box-shadow: 10px 10px 5px #aaaaaa;
+            box-shadow: 10px 10px 5px #aaaaaa;
     border-radius: 30px ;
     -webkit-border-radius: 30px ;
     -moz-border-radius: 30px ;
@@ -82,7 +88,52 @@ img {
     -o-border-radius: 30px ;
 }
 
+.col-third {
+	width: 47%;
+}
+
+.wrap{
+    max-width: 1000px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+form {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack:justify;
+        -ms-flex-pack:justify;
+            justify-content:space-between;  
+}
+
+form button{
+    width: 100%;
+}
+
+textarea{
+    width: 100%;
+    display: block;
+}
+
+input, textarea {
+    border: 2px solid gold;
+    margin-bottom: 12px;
+    padding: 10px 10px;
+    outline: 0;
+}
 
 
 
+
+.copyright {
+    background-color: palevioletred;
+    text-align: center;
+}
 
