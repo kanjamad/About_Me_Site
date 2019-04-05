@@ -12,11 +12,9 @@
 
 ![https://wireframe.cc/AMptaw](https://github.com/kanjamad/About_Me_Site/blob/master/assets/img/about_me.png " wireframe blog")
 
-![https://wireframe.cc/391GFd](https://github.com/kanjamad/Formula-One-Magazine/blob/master/assets/img/footer.png " wireframe contact")
+![https://wireframe.cc/391GFd](https://github.com/kanjamad/Formula-One-Magazine/blob/master/assets/img/contact.png " wireframe contact")
 
 
 ### Link
-1. https://wireframe.cc/oLGHDd
-2. https://wireframe.cc/fUDpMW
-3. https://wireframe.cc/ULehBA
-4. https://wireframe.cc/ubHp3r
+1. https://wireframe.cc
+
