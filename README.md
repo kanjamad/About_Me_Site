@@ -18,3 +18,11 @@
 ### Link
 1. https://wireframe.cc
 
+
+
+
+photo skills
+https://icons8.com/icons/set/jq
+
+Smart PNG and JPEG compression
+https://tinypng.com/?ref=cybrhome

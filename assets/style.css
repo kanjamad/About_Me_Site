@@ -1,9 +1,37 @@
 
 
 
+* {
+    box-sizing: border-box;
+    position: relative;
+
+}
+
+html {
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+}
+
 /*--------------------------------------------------------------------
                             Header
 ---------------------------------------------------------------------- */
+header {
+    
+    top:0;
+    left: 0;
+    height: 100vh;
+}
+.articles {
+    top:0;
+    left: 0;
+    height: 100vh;
+}
+
+
+
+section {
+    height: 100vh;
+}
 
 .grid-wrapper {
     display: -webkit-box;
@@ -37,11 +65,13 @@ img {
     
 }
 
-.fab {
+.fab, .fas {
     color: palevioletred;
     font-size: 30px;
     margin: 8px;
 }
+
+
 
 .linkSection a {
     color: palevioletred;
@@ -58,14 +88,24 @@ img {
 ---------------------------------------------------------------------- */
 h2{
     text-align: center;
+    padding-top: 100px;
 }
 
 
 
 
-.wrap1 {
-    background-color: palevioletred;
-    height: 300px;
+#skills {
+    padding: 200px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.skills-wrap {
+    /* width: 50%; */
 }
 
 
@@ -132,8 +172,13 @@ input, textarea {
 
 
 
-.copyright {
+footer {
     background-color: palevioletred;
     text-align: center;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 5px;
 }
 
