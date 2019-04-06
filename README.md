@@ -14,6 +14,8 @@
 
 ![https://wireframe.cc/391GFd](https://github.com/kanjamad/About_Me_Site/blob/master/assets/img/contact.png " wireframe contact")
 
+![https://wireframe.cc/391GFd](https://github.com/kanjamad/About_Me_Site/blob/master/assets/img/flex-box.png " wireframe flex-box")
+
 
 ### Link
 1. https://wireframe.cc
